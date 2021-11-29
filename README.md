@@ -1,6 +1,7 @@
 
+
 <p align="center">
-𝐓𝐀𝐔𝐑𝐔𝐒 𝐁𝐎𝐓
+KUNJUZZ 
 
 ##
 <a href="https://bit.ly/3koZRGY"><img src="WLCME.png" alt="google-font" border="0"></a>
@@ -10,7 +11,7 @@
 
 <div align="center">
 
-## [![Taurus-Bot](https://readme-typing-svg.herokuapp.com?font=Comix+Loud&color=B62EE0&lines=Welcome+to+Taurus+WA+Bot+repo;Created+by+MUHAMMED;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/3wNuiez)
+## [![Kunjuzz v3](https://readme-typing-svg.herokuapp.com?font=Comix+Loud&color=B62EE0&lines=Welcome+to+Taurus+WA+Bot+repo;Created+by+MUHAMMED;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/3wNuiez)
 
  </a>
 </p>
@@ -21,11 +22,11 @@
 </p>
        
   <p align="center">
-<a href="https://github.com/muhammed-usrbot"><img title="Author" src="https://img.shields.io/badge/Author-muhammed-usrbot?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Albinsoulbotz"><img title="Author" src="https://img.shields.io/badge/Author-Albinsoulbotz?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/muhammed-usrbot">muhammed-usrbot</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/Albinsoulbotz">Albinsoulbotz</a>
     <br>
        | © |
         Reserved |
@@ -46,9 +47,9 @@
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammed-usrbot&show_icons=true&theme=dark&locale=en" alt="muhammed-usrbot" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Albinsoulbotz&show_icons=true&theme=dark&locale=en" alt="Albinsoulbotz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-usrbot&theme=dark" alt="muhammed-usrbot" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Albinsoulbotz&theme=dark" alt="Albinsoulbotz" /></p>
 </p>
 
 
@@ -93,8 +94,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/muhammed-usrbot/Taurus-Bot
-$ cd Taurus-Bot
+$ git clone https://github.com/Albinsoulbotz/Kunjuzz v3
+$ cd Kunjuzz v3
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -103,8 +104,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/muhammed-usrbot/Taurus-Bot
-$ cd Taurus-Bot
+$ git clone https://github.com/Albinsoulbotz/Kunjuzz v3
+$ cd Kunjuzz v3
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -117,16 +118,16 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Taurus-Bot executives do not accept responsibility.
-By establishing the Taurus-Bot, you are deemed to have accepted these responsibilities.
+Absolutely, Kunjuzz v3 executives do not accept responsibility.
+By establishing the Kunjuzz v3, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developer 
   </div>
 
-  [![muhammed-usrbot](https://github.com/muhammed-usrbot.png?size=100)](https://github.com/muhammed-usrbot) | 
+  [![Albinsoulbotz](https://github.com/Albinsoulbotz.png?size=100)](https://github.com/Albinsoulbotz) | 
 ----|
-[MUHAMMED](https://github.com/muhammed-usrbot)
+[MUHAMMED](https://github.com/Albinsoulbotz)
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
