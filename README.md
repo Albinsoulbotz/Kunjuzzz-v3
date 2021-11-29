@@ -1,7 +1,7 @@
 
 
 <p align="center">
-KUNJUZZ 
+ KUNJUZZ 
 
 ##
 <a href="https://bit.ly/3koZRGY"><img src="WLCME.png" alt="google-font" border="0"></a>
@@ -11,13 +11,13 @@ KUNJUZZ
 
 <div align="center">
 
-## [![Kunjuzz v3](https://readme-typing-svg.herokuapp.com?font=Comix+Loud&color=B62EE0&lines=Welcome+to+Taurus+WA+Bot+repo;Created+by+MUHAMMED;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/3wNuiez)
+## [![Kunjuzz v3](https://readme-typing-svg.herokuapp.com?font=Comix+Loud&color=B62EE0&lines=Welcome+to+Taurus+WA+Bot+repo;Created+by+Albinsoulbotz;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/3wNuiez)
 
  </a>
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="TUARUS" src="https://img.shields.io/badge/taurus-B62EE0?colorA=B62EE0&colorB=B62EE0&style=for-the-badge"></a>
+<a href="#"><img title="Kunjuzz v3" src="https://img.shields.io/badge/taurus-B62EE0?colorA=B62EE0&colorB=B62EE0&style=for-the-badge"></a>
 
 </p>
        
@@ -127,12 +127,12 @@ By establishing the Kunjuzz v3, you are deemed to have accepted these responsibi
 
   [![Albinsoulbotz](https://github.com/Albinsoulbotz.png?size=100)](https://github.com/Albinsoulbotz) | 
 ----|
-[MUHAMMED](https://github.com/Albinsoulbotz)
+[Albinsoulbotz](https://github.com/Albinsoulbotz)
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
 ## Contributer 
-`MUHAMMED`
+`Albinsoulbotz`
         
         
 ## License 
